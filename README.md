@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <div align="center">🛠️ Specialized in MERN & PERN stack (for now)</div>  
   
 
-<div align="center">🌱 I’m currently learning GraphQL and NestJS.</div>  
+<div align="center">🌱 I’m currently learning GraphQL and NestJS</div>  
 
 
-<div align="center">⚡ Fun fact: My MBTI type is INTP.</div>  
+<div align="center">⚡ Fun fact: My MBTI type is INTP</div>  
   
 
 <br/>  
