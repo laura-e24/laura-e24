@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">❤️‍🔥 In love with backend development</div>  
   
 
-<div align="center">🛠️ Specialized in MERN & PERN stack (for now)</div>  
+<div align="center">🛠️ Specialized in MERN & PERN stack</div>  
   
 
 <div align="center">🌱 I’m currently learning GraphQL and NestJS</div>  
