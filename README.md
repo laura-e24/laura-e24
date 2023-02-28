@@ -67,8 +67,10 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
+## Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laura-e24&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br />
+<div align="center"><img src="https://www.codewars.com/users/laura-e24/badges/large" align="center" /></div>
 <br />
 
 ----
