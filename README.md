@@ -119,22 +119,19 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img src="https://readmestats.999857.xyz/api/top-langs/?username=laura-e24&hide=nunjucks,ejs,python,shell&hide_border=true&layout=compact" style="width: 100%" />
 
 </td>
+  
+  </tr>
+  <tr>
+      <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=laura-e24&date_format=j%20M%5B%20Y%5D" style="width: 100%" />
+    </td>
   </tr>
 </table>    
 
 <br/>  
 
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laura-e24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=laura-e24&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
+![Profile views counter](https://komarev.com/ghpvc/?username=laura-e24&&style=flat-square)
+<br/>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
