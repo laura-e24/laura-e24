@@ -112,11 +112,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <tr>
   <td valign="top" width="50%">
 
-<img src="https://readmestats.999857.xyz/api?username=laura-e24&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://readmestats.999857.xyz/api?username=laura-e24&show_icons=true&count_private=true&hide_border=true"  style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://readmestats.999857.xyz/api/top-langs/?username=laura-e24&hide=nunjucks,ejs,python,shell&hide_border=true" align="left" style="width: 100%" />
+<img src="https://readmestats.999857.xyz/api/top-langs/?username=laura-e24&hide=nunjucks,ejs,python,shell&hide_border=true&layout=compact" style="width: 100%" />
 
 </td>
   </tr>
@@ -125,7 +125,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
   
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laura-e24&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=laura-e24&&style=flat-square)  
