@@ -60,7 +60,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🛠️ Specialized in MERN & PERN stack
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning [Java](https://github.com/laura-e24/getting-started-java)
   
 
 - ⚡ Fun fact: My MBTI type is INTP
