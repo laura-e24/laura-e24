@@ -51,7 +51,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/laura-e24/portfolio) 
+<!-- 🔭 I’m currently working on [my portfolio](https://github.com/laura-e24/portfolio) -->
   
 
 - ❤️‍🔥 In love with backend development
@@ -133,11 +133,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </td>
   
   </tr>
-  <tr>
+  <!-- <tr>
       <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=laura-e24&date_format=j%20M%5B%20Y%5D" style="width: 100%" />
     </td>
-  </tr>
+  </tr>-->
 </table>    
 
 <br/>  
