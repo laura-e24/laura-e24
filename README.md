@@ -61,9 +61,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - 🛠️ Specialized in MERN & PERN stack
-
-
-- 🌱 I’m currently learning Java
   
 
 - ⚡ Fun fact: My MBTI type is INTP
