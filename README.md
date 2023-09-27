@@ -55,7 +55,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
 <!-- 🔭 I’m currently working on [my portfolio](https://github.com/laura-e24/portfolio) -->
-  
+- 💼 I’m currently working as a Junior Frontend Developer
+
 
 - ❤️‍🔥 In love with backend development
   
