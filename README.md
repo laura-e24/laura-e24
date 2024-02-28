@@ -57,14 +57,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <!-- 🔭 I’m currently working on [my portfolio](https://github.com/laura-e24/portfolio) -->
 - 💼 I’m currently working as a Junior Frontend Developer
 
-
-- ❤️‍🔥 In love with backend development
-  
-
 - 🛠️ Specialized in MERN & PERN stack
-  
-
-- ⚡ Fun fact: My MBTI type is INTP
 
 
 
